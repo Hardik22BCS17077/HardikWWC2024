@@ -5,8 +5,7 @@ int main() {
     // Write C++ code here
     int n;
     cin>>n;
-    cout<<(n*(n-1))/2;
-    cout << "Try programiz.pro";
+    cout<<"Sum of the given number of natural number is: "<<(n*(n-1))/2;
 
     return 0;
 }
