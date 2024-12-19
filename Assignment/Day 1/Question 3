@@ -1,0 +1,12 @@
+//Write a program to print sum of natural numbers
+#include <iostream>
+using namespace std;
+int main() {
+    // Write C++ code here
+    int n;
+    cin>>n;
+    cout<<(n*(n-1))/2;
+    cout << "Try programiz.pro";
+
+    return 0;
+}
