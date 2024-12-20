@@ -1,4 +1,4 @@
-So Here are the given parameter for the output:
+# Input Parameter for the output:
 
 1. We have Apple as item number 1
    * Name: Apple
